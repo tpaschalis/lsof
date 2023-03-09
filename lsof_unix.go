@@ -1,4 +1,4 @@
-// +build linux plan9 freebsd solaris
+// +build linux plan9 freebsd solaris darwin
 
 package lsof
 
